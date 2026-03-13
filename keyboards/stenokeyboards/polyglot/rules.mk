@@ -1,1 +1,1 @@
-# File is intentionally blank
+DYNAMIC_MACRO_ENABLE = yes
