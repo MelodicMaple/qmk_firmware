@@ -1,1 +1,1 @@
-DYNAMIC_MACRO_ENABLE = yes
+# File is intentionally left blank
