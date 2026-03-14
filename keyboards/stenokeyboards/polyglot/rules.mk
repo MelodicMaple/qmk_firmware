@@ -1,1 +1,1 @@
-# File is intentionally left blank
+KEY_OVERRIDE_ENABLE = yes
